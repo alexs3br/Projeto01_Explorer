@@ -29,7 +29,7 @@ span, a {
     color: #FF9900;
 }
 
-p {
+p, #footer {
     color: #7D7987;
     font-size: 14px;
     line-height: 28px;
@@ -39,7 +39,7 @@ p {
     margin-left: 28px;
 }
 
-#line {
+.line {
     width: 568px;
     height: 0;
     margin: auto;
