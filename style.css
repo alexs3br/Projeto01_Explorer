@@ -33,7 +33,7 @@ p, #footer {
     color: #7D7987;
     font-size: 14px;
     line-height: 28px;
-}
+} 
 
 #footer a + a {
     margin-left: 28px;
@@ -44,4 +44,10 @@ p, #footer {
     height: 0;
     margin: auto;
     border: 1px #ECEFF2 solid;
+}
+
+#balls {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
 }
